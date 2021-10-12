@@ -14,4 +14,4 @@ Repositorio con código generado para la Evidencia 1 de la materia Estructura de
 
 ## Licencia
 
-[estructura-de-datos-y-su-procesamiento-evidencia-1](https://github.com/fernandodilland/estructura-de-datos-y-su-procesamiento-evidencia-1/) are released under [MIT license](https://github.com/fernandodilland/estructura-de-datos-y-su-procesamiento-evidencia-1/blob/main/LICENSE) . Copyright (c) [Fernando Dilland](https://github.com/fernandodilland).
+[estructura-de-datos-y-su-procesamiento-evidencia-1](https://github.com/fernandodilland/estructura-de-datos-y-su-procesamiento-evidencia-1/) are released under [MIT license](https://github.com/fernandodilland/estructura-de-datos-y-su-procesamiento-evidencia-1/blob/main/LICENSE).
