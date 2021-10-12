@@ -4,12 +4,8 @@ Repositorio con código generado para la Evidencia 1 de la materia Estructura de
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE)
 
 ## Integrantes del equipo
-- Cantú Cisneros Andrea Aracely, 1957576 @cantuandrea .
-
-URLs and URLs in angle brackets will automatically get turned into links. 
-http://www.example.com or <http://www.example.com> and sometimes 
-example.com (but not on Github, for example).
-
+- Cantú Cisneros Andrea Aracely, 1957576 [@cantuandrea](https://github.com/cantuandrea) .
+- 
 
 ## Capturas de pantalla
 
