@@ -10,6 +10,13 @@ Repositorio con código generado para la Evidencia 1 de la materia Estructura de
 - José Fernando Chávez Castillo, [@ImGodsGamerZ](https://github.com/ImGodsGamerZ).
 - Juan De Dios Sánchez Juárez, [@JuanDsanchez2021](https://github.com/JuanDsanchez2021).
 
+## Instalación
+Requisitos previos:
+- Instalado Python (3.10.0 o superior) en Windows, Linux/UNIX ó macOS ([descarga](https://www.python.org/downloads/)).
+- Instalado Thonny, Visual Studio Code, cualquier IDLE de Python o editor de código.
+
+## Instrucciones de uso
+
 ## Licencia
 
 [estructura-de-datos-y-su-procesamiento-evidencia-1](https://github.com/fernandomireles/estructura-de-datos-y-su-procesamiento-evidencia-1/) are released under [MIT license](https://github.com/fernandomireles/estructura-de-datos-y-su-procesamiento-evidencia-1/blob/main/LICENSE).
